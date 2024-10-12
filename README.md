@@ -1,8 +1,8 @@
-## Hi there 👋
-👋 Hi, I’m Samruddhi Lute
-👀 I’m interested in Machine Learning, data science, and data analysis
-🌱 I’m currently studying Mechanical Engineering
-📫 How to reach me : Emails - samruddhi21@iitk.ac.in or by phone/whatsapp - 9699618044
+
+- 👋 Hi, I’m Samruddhi Lute
+- 👀 I’m interested in Machine Learning, data science, and data analysis
+- 🌱 I’m currently studying Mechanical Engineering
+- 📫 How to reach me : Emails - samruddhi21@iitk.ac.in or by phone/whatsapp - 9699618044
 <!--
 **samruddhi1943/samruddhi1943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
