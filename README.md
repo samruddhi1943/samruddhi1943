@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I’m @Faheem-Nizar
+👋 Hi, I’m Samruddhi Lute
 👀 I’m interested in Machine Learning, data science, and data analysis
 🌱 I’m currently studying Mechanical Engineering
 📫 How to reach me : Emails - samruddhi21@iitk.ac.in or by phone/whatsapp - 9699618044
